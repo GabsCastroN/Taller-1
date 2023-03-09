@@ -1,1 +1,1 @@
-# 
+# programa para dianosticar los pesos
